@@ -1,0 +1,25 @@
+# 运行期数据与产物，不进仓库
+data/
+logs/
+version/
+build_output/
+_out_verify/
+_out_*.txt
+_out_*.pac
+_out_*.js
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# 敏感信息（本项目不需要，但保持统一纪律）
+.env
