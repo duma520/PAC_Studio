@@ -1,5 +1,7 @@
 # PAC 分流工作室（PAC Studio）
 
+> **一句话**：PAC 分流工作室：生成、编译、应用与一键还原 PAC 代理自动配置脚本，支持 `--apply-pac --silent` 静默应用与 `--restore` 回滚。要按域名清单做代理分流、又不想手动改系统设置时用它。
+
 一个只做一件事的工具：**编辑 PAC 分流规则、让 Windows 走 PAC、和 ZeroOmega 的 PAC 互转**。
 
 - 主程序：`PAC_Studio.py`
