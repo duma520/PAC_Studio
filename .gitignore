@@ -23,3 +23,15 @@ desktop.ini
 
 # 敏感信息（本项目不需要，但保持统一纪律）
 .env
+
+# ---- 数据库文件（绝不入库）----
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.sqlite
+*.sqlite3
+*.sqlite-shm
+*.sqlite-wal
+*.db3
+Thumbs.db
